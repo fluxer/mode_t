@@ -1,0 +1,5 @@
+changed ownership of '/home/smil3y/foo.txt' from smil3y:smil3y to root:root
+mode of '/home/smil3y/foo.txt' changed from 0644 (rw-r--r--) to 0200 (-w-------)
+where did your file go root?
+renamed '/home/smil3y/foo.txt' -> '/home/smil3y/bar.txt'
+removed '/home/smil3y/bar.txt'
